@@ -2,8 +2,10 @@
 
 -> Current Version: v0.0.1-2 <-
 
-Format: `<No.> <Date: yyyy-MM-dd> [<Type> | <Commit>] <Description>`
-Types:
+##Format 
+`<No.> <Date: yyyy-MM-dd> [<Type> | <Commit>] <Description>`
+
+## Types:
 - F: Fix
 - I: Init
 - M: Modify

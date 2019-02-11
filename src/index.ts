@@ -9,7 +9,7 @@ ionjs.init({
     operators: [1004121460],
     self: 3318691441,
     prefixes: ["> "],
-    
+    middlewareTimeout: 20000 // fuck network
 })
 
 import './plugins/wahtani'

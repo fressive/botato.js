@@ -11,3 +11,10 @@
 
 ## License
 [AGPL License](https://raw.githubusercontent.com/int100/botato.js/master/LICENSE)
+
+## Thanks
+**感谢 [532](https://github.com/trustgit) 帮助解决开发中的一些~~弱智~~问题，以及他的 ~~bug 非常多的~~ [Ion.js](https://github.com/ionjs-dev/ionjs) 。**
+
+感谢 [trace.moe](https://trace.moe) 为 `wahtani` 功能提供的 API 。
+
+感谢 [Anilist](https://anilist.co) 为 `wahtani` 功能提供的 API 与 Cover 。
