@@ -1,6 +1,6 @@
 {
   "name": "potato",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "A bot based on ion.js",
   "main": "index.js",
   "scripts": {
