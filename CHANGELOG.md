@@ -1,6 +1,6 @@
 # Changelog
 
--> Current Version: v0.0.0 <-
+-> Current Version: v0.0.1 <-
 
 Format: `<No.> <Date: yyyy-MM-dd> [<Type> | <Commit>] <Description>`
 Types:
@@ -12,3 +12,6 @@ Types:
 
 ## v0.0.0 (0) Qualified
 1. 2019/02/10 [I | [d8849e6](https://github.com/int100/botato.js/commit/d8849e6f8122403eb13b0f134c0cd1a1bbf578ee)] 初始化项目仓库
+
+## v0.0.1 (1) What
+1. 2019/02/10 [N | [86cb1ec](https://github.com/int100/botato.js/commit/86cb1ec)] 增加 `wahtani` 功能
